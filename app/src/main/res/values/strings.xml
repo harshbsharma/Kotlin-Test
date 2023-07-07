@@ -11,4 +11,5 @@
     <string name="last_msg">Don\'t have and Accout?</string>
     <string name="bold_signup">Sign UP</string>
     <string name="bold_signin">Sign IN</string>
+    <string name="splash_message">Let\'s Get Started</string>
 </resources>
