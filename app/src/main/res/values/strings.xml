@@ -2,4 +2,13 @@
     <string name="app_name">NoKotlin</string>
     <string name="enter_button">Enter</string>
     <string name="welcome">Welcome Buddy</string>
+    <string name="loginimage">loginimage</string>
+    <string name="wlcmsg">Welcome Back !!</string>
+    <string name="direction_message">Please Enter Your Details</string>
+    <string name="apple_id">Sign In With Apple ID</string>
+    <string name="email_prompt">Email</string>
+    <string name="password_prompt">Password</string>
+    <string name="last_msg">Don\'t have and Accout?</string>
+    <string name="bold_signup">Sign UP</string>
+    <string name="bold_signin">Sign IN</string>
 </resources>
